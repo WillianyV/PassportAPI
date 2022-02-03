@@ -21,12 +21,14 @@
                         </a>                        
                     </div>
                     <div class="col-sm-3">
-                        <div class="card text-white bg-secondary mb-3">
-                            <div class="card-body">
-                                <h5 class="card-title">PassportClient2</h5>
-                                <p class="card-text">Sistema de Cliente 2.</p>
+                        <a href="http://localhost:8081/sso/redirect" style="text-decoration: none" target="_blank">
+                            <div class="card text-white bg-secondary mb-3">
+                                <div class="card-body">
+                                    <h5 class="card-title">PassportClient2</h5>
+                                    <p class="card-text">Sistema de Cliente 2.</p>
+                                </div>
                             </div>
-                        </div>
+                        </a>                        
                     </div>
                     <div class="col-sm-3">
                         <div class="card text-white bg-success mb-3">
