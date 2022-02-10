@@ -11,7 +11,7 @@
                 <br>
                 <div class="row">
                     <div class="col-sm-3">
-                        <a href="http://localhost:8080/sso/redirect" style="text-decoration: none" target="_blank">
+                        <a href="http://localhost:8080/home" style="text-decoration: none" target="_blank">
                             <div class="card text-white bg-primary mb-3">
                                 <div class="card-body">
                                     <h5 class="card-title">PassportClient1</h5>
@@ -21,7 +21,7 @@
                         </a>                        
                     </div>
                     <div class="col-sm-3">
-                        <a href="http://localhost:8081/sso/redirect" style="text-decoration: none" target="_blank">
+                        <a href="http://localhost:8081/home" style="text-decoration: none" target="_blank">
                             <div class="card text-white bg-secondary mb-3">
                                 <div class="card-body">
                                     <h5 class="card-title">PassportClient2</h5>
